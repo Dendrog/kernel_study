@@ -1,0 +1,1 @@
+cmd_/home/dendrog/develop/kernel/hello-2/Module.symvers := sed 's/\.ko$$/\.o/' /home/dendrog/develop/kernel/hello-2/modules.order | scripts/mod/modpost -m -a  -o /home/dendrog/develop/kernel/hello-2/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/dendrog/develop/kernel/hello-2/hello-2.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/dendrog/develop/kernel/hello-2/hello-2.ko /home/dendrog/develop/kernel/hello-2/hello-2.o /home/dendrog/develop/kernel/hello-2/hello-2.mod.o;  true

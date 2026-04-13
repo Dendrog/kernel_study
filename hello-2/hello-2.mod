@@ -1,0 +1,2 @@
+/home/dendrog/develop/kernel/hello-2/hello-2.o
+
